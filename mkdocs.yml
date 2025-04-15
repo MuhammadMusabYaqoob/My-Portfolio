@@ -1,25 +1,46 @@
 site_name: Portfolio
 site_description: A collection of my projects and experiences.
 site_author: Muhammad Musab
+site_url: https://muhammadmusabyaqoob.github.io/My-Portfolio/
 
-theme: 
-  # name: material
-  name: mkdocs
+# theme: 
+#   # name: material
+#   name: mkdocs
+
+theme:
+  name: material
+  # logo: assets/logo.png
+  # favicon: assets/favicon.ico
+  palette:
+    primary: indigo
+    accent: blue
+
+# markdown_extensions:
+#   - admonition
+#   - codehilite
+#   - toc
+
 
 markdown_extensions:
   - admonition
-  - codehilite
-  - toc
+  - codehilite:
+      guess_lang: true
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
 
 
 # pages
 nav:
   - Home: index.md
-  # - Projects:
-  #     - Project 1: projects/project1.md
-  #     - Project 2: projects/project2.md
-  #     - Project 3: projects/project3.md
-  - Projects: projects.md
+  - Projects:
+      - Machine Learning:
+          - Datasets Project: projects/01_Machine_Learning.md
+      - Deep Learning: projects/02_Deep_Learning.md 
+
+  # - Projects: projects.md
   - Blogs: blogs.md
   - Skills: skills.md
   - Resume: resume.md
