@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://muhammadmusabyaqoob.github.io/My-Portfolio/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://muhammadmusabyaqoob.github.io/My-Portfolio/about/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://muhammadmusabyaqoob.github.io/My-Portfolio/blogs/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://muhammadmusabyaqoob.github.io/My-Portfolio/projects/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://muhammadmusabyaqoob.github.io/My-Portfolio/resume/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://muhammadmusabyaqoob.github.io/My-Portfolio/skills/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://muhammadmusabyaqoob.github.io/My-Portfolio/projects/01_Machine_Learning/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://muhammadmusabyaqoob.github.io/My-Portfolio/projects/02_Deep_Learning/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
 </urlset>
