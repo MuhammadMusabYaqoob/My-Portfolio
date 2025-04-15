@@ -1,0 +1,20 @@
+h3 {
+    color: #1e90ff !important; /* or any color you prefer */
+}
+
+
+
+.icon {
+    font-size: 35px;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+  }
+  
+  .icons-color{
+    color: #0077b5
+  }
+  .icons-color:hover {
+    /* color: #333; */
+    color: #9786fc;
+  }
+  
