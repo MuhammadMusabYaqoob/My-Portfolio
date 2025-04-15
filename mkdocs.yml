@@ -6,6 +6,10 @@ theme:
   # name: material
   name: mkdocs
 
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc
 
 
 # pages
